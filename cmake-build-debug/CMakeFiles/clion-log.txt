@@ -1,0 +1,4 @@
+C:\Users\u16162\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\u16162\CLionProjects\ArvoreAVL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/u16162/CLionProjects/ArvoreAVL/cmake-build-debug
