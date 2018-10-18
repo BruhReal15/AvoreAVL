@@ -8,7 +8,7 @@
 template <typename T>
 class ArvoreAVL {
 public:
-    void inserir(const T &info);
+    void inserir(const T &info) throw(char*);
     void excluir(const T &Info);
     bool tem(const T &Info);
 

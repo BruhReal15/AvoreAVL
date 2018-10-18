@@ -43,7 +43,10 @@ void No<T>::setDireita(No *dir) {
 
 template<typename T>
 No<T>* No<T>::proximo(const T &info){
-    if()
+    if(this->info > &info)
+        return this->getEsquerda();
+    else
+        return this->getDireita();
 
 }
 
